@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 My I.T. projects:</h2>
 
-  - [How to troubleshoot an audio problem on windows 11](https://coursera.org/share/13186b4e132ddc359dc28fc5f599e025)
+  - [How to troubleshoot an audio problem on windows 11](https://github.com/shazi1997/Troubleshooting-an-audio-problem-on-windows-11)
 
 
 <h2>📺 Certifications</h2>
 
-- [Google I.T. support professional certification ]()
+- [Google I.T. support professional certification ](https://www.coursera.org/account/accomplishments/specialization/certificate/7FKOM8B5HRC3)
 
 <h2> 🤳 Connect with me:</h2>
 
