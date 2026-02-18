@@ -3,7 +3,7 @@
 <h2>👨‍💻 My I.T. projects:</h2>
 
   - [How to troubleshoot an audio problem on windows 11](https://github.com/shazi1997/Troubleshooting-an-audio-problem-on-windows-11)
-  - [
+  - [Slack to spiceworks automation](https://github.com/shazi1997/Slack-to-Spiceworks-automation/edit/main/README.md) 
 
 
 <h2>📺 Certifications</h2>
